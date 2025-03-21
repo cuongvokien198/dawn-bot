@@ -1,1 +1,1 @@
-When in doubt, print it out.Code fast, break things.fist commit
+Commit often, push regularly, and hope for the best.When in doubt, print it out.Code fast, break things.fist commit
